@@ -54,7 +54,6 @@ app/
 ├── (tabs)/
 │   ├── _layout.tsx          # Tab navigation
 │   ├── index.tsx            # Home screen
-│   └── explore.tsx          # Explore screen
 └── modal.tsx                # Weather detail screen
 components/
 ├── weather.api.ts           # API calls
